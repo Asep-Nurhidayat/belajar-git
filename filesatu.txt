@@ -1,3 +1,5 @@
 Belajar Git dengan dasar yang sudah dipelajari.
 
 ini sudah dirubah menjadi versi 2.
+
+saya melakukan revisi 3.
